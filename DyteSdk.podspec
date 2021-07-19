@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|  
     s.name              = 'DyteSdk' # Name for your pod
-    s.version           = '0.0.3'
+    s.version           = ENV['LIB_VERSION'] || '1.0'
     s.summary           = 'Beta release of dyte sdk'
     s.homepage          = 'https://dyte.in'
     s.license          = 'Apache 2'
