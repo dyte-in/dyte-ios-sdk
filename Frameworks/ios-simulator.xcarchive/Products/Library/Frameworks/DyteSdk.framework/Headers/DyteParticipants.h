@@ -13,4 +13,5 @@
 @property(nonatomic, readonly) NSMutableArray* _Nonnull participants;
 + (instancetype _Nonnull)sharedInstance;
 - (NSInteger)doesParticipantsExist:(NSString*_Nonnull)id;
+- (void)setAllValueNil;
 @end

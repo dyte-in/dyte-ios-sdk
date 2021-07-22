@@ -16,6 +16,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property(nonatomic, assign, readonly) BOOL activeSpeaker;
 #pragma mark - This class is a singleton
 + (instancetype _Nonnull)sharedInstance;
+-(void)setAllValueNil;
 
 @end
 

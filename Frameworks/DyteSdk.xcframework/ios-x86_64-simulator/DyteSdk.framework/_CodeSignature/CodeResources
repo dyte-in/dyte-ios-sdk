@@ -6,11 +6,11 @@
 	<dict>
 		<key>AccessibilityResources.bundle/Info.plist</key>
 		<data>
-		h+3XY4rTk68Gl3WxYMORY8k0q2U=
+		MoahCBS9mKSvdoKXVCqOSHJBRhU=
 		</data>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		IG4s3aWPjJXNQQdIxhua7PVJu9c=
+		7tdZEJXTUHOgddCCCVtdhAgecNI=
 		</data>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		85VrpnAKeHJkvm2WyhYPwaiIu7c=
+		B43FU/Zru9FAFzy6b8/b0E5WVIo=
 		</data>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -43,7 +43,7 @@
 		</data>
 		<key>Headers/Dyte.h</key>
 		<data>
-		S9qNwLq1CgY/wqCpyUaJKKn0J+o=
+		JXAHgShWglwsnml43OJNMDuOE2Y=
 		</data>
 		<key>Headers/DyteMeetingConfig.h</key>
 		<data>
@@ -51,7 +51,7 @@
 		</data>
 		<key>Headers/DyteMeetingInfo.h</key>
 		<data>
-		4J7JKm8ZsQHwEDisQDsrNAyIVIU=
+		GAHQVmXAe1oTARPoFo1mrZtVyd4=
 		</data>
 		<key>Headers/DyteMeetingView.h</key>
 		<data>
@@ -63,11 +63,11 @@
 		</data>
 		<key>Headers/DyteParticipants.h</key>
 		<data>
-		KWB5gt/q7ztpSq1iFCzdIa+OfeE=
+		G8LyGK3Ai2p4VBdmDpUwKw+iQcU=
 		</data>
 		<key>Headers/DyteSdk-Swift.h</key>
 		<data>
-		aynNY2GC3G1c+hVDRLDfQ9cZD2E=
+		3QTjAT5o+PBQtwJm9rvkPtd2mbk=
 		</data>
 		<key>Headers/DyteSdk.h</key>
 		<data>
@@ -75,11 +75,11 @@
 		</data>
 		<key>Headers/DyteSelfParticipant.h</key>
 		<data>
-		BUtyVMiukxLvlwGsQc0peR6SXLM=
+		J9MAbX6c5Hhpdc/MzqJ1rITPkGI=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		b0QaBSpXIx4+9fhvpqMlGMmD9qc=
+		f1Gx+FnWRJKiSVSf99OFT9EOBDE=
 		</data>
 		<key>Ionicons.ttf</key>
 		<data>
@@ -91,27 +91,27 @@
 		</data>
 		<key>Modules/DyteSdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		jik3JgUiirGbks7r+5DKHonIPSs=
+		y6mxSYAodfmSgOTuv8M0cw8JecY=
 		</data>
 		<key>Modules/DyteSdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Kf2wQz/xHcLQcWx8JeOINyYgbmw=
+		aSHhJZ8w7CXIzA68KgmEcrW9AdE=
 		</data>
 		<key>Modules/DyteSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		K9Q7p6doGqWu6jGf62R52WE601Y=
+		KWucIb5BjWdAeSKOT9KwXO6Wo2o=
 		</data>
 		<key>Modules/DyteSdk.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		jik3JgUiirGbks7r+5DKHonIPSs=
+		y6mxSYAodfmSgOTuv8M0cw8JecY=
 		</data>
 		<key>Modules/DyteSdk.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		Kf2wQz/xHcLQcWx8JeOINyYgbmw=
+		aSHhJZ8w7CXIzA68KgmEcrW9AdE=
 		</data>
 		<key>Modules/DyteSdk.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		K9Q7p6doGqWu6jGf62R52WE601Y=
+		KWucIb5BjWdAeSKOT9KwXO6Wo2o=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -175,7 +175,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		77SKP5we9paxv9uAoaI7VwIHeIk=
+		/3XrJWuah+oA/SROFz7ggGMwHs0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -184,14 +184,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QuAiNxuAnbthKIlSAUleFaREnn2/g+FnLq7p1QkHP/8=
+			INSTA31jqdb91U7XPisvj+rviltNDJacczxINkZnwBY=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RJL6FoTu8wrys68rUiMWhK02LCougD0Jne9Q2Li9/D0=
+			LfHyyIBkvJi3AnNONl1vVaYSgqC7AbJcb8fZZ+yYxZ0=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeRequirements</key>
@@ -205,7 +205,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1+3IOULfWRDtRgzGWkEJhm+lBwfDYfoa35O6oG2/tbk=
+			3nsbXOx0/ewOLgfZsHalwhh9WZiwTjr5vqqqahpACeQ=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeResources</key>
@@ -242,7 +242,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			X3LH7LeKVQnriVcWXscvwdOZAnuDte8yAi8n+5b3K3o=
+			j8RXtg2hyLqKvxE+yYDHKc2zCMV9k9y2+6L7tmcxsI4=
 			</data>
 		</dict>
 		<key>Headers/DyteMeetingConfig.h</key>
@@ -256,7 +256,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fv6SLsxV/4vcStA5BEuncKYhEtwKnuiv0Xsccz7X6ZU=
+			px+AkXFbvAibaWimXJFwvVdt+sOBW9uBqdR2HyqOL30=
 			</data>
 		</dict>
 		<key>Headers/DyteMeetingView.h</key>
@@ -277,14 +277,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DPRyUgRoqbgggeK2NnBSv7sCgIlJ8NrgrxmEEp+nL7A=
+			wtNjQEp1haG4qJkJOm3teAahhRLZxOMVFTXx2GwARpY=
 			</data>
 		</dict>
 		<key>Headers/DyteSdk-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UKsYgIB+aBb2yPdZaE/dFNXudQes8cpJSnifn6VZd2U=
+			H9nzvLjWLnAvgPDwzDEHwtr8ZvXY4g4zAXjXKVsoVqM=
 			</data>
 		</dict>
 		<key>Headers/DyteSdk.h</key>
@@ -298,7 +298,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nlNsOm99sejwzNiF40uvdLuFCBZ2BileVVSbvb+od7o=
+			V7W+xnZuYjFJMwa4mHJjSzwGZU4lsXKAvbtSfDTNArI=
 			</data>
 		</dict>
 		<key>Ionicons.ttf</key>
@@ -319,42 +319,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Cpt4x/1Iwoon3O5HZ9F6X2ipIUb7VfvNb9pwii6EbEE=
+			zXj1OUlYln6FBaqJTIfS5CDJ/iDZXd5Tx9K10QF1CX8=
 			</data>
 		</dict>
 		<key>Modules/DyteSdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xl+yGPQKLAX51rqhq8uGl1Kztp+6W5nVYyVlDQPtT9o=
+			tTRX6Pckz1tX6Hpx+gP/NooqDm6N4qCR2F3rWiZGtY8=
 			</data>
 		</dict>
 		<key>Modules/DyteSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ThVlFFuSRuScGQUgqJufOUPrEExhqJHjBYI9ABCl8qk=
+			IpdaSX/wm66M4Fs6u6aEJ6UsrLMbQu2GlAAFmdv0vgo=
 			</data>
 		</dict>
 		<key>Modules/DyteSdk.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Cpt4x/1Iwoon3O5HZ9F6X2ipIUb7VfvNb9pwii6EbEE=
+			zXj1OUlYln6FBaqJTIfS5CDJ/iDZXd5Tx9K10QF1CX8=
 			</data>
 		</dict>
 		<key>Modules/DyteSdk.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xl+yGPQKLAX51rqhq8uGl1Kztp+6W5nVYyVlDQPtT9o=
+			tTRX6Pckz1tX6Hpx+gP/NooqDm6N4qCR2F3rWiZGtY8=
 			</data>
 		</dict>
 		<key>Modules/DyteSdk.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ThVlFFuSRuScGQUgqJufOUPrEExhqJHjBYI9ABCl8qk=
+			IpdaSX/wm66M4Fs6u6aEJ6UsrLMbQu2GlAAFmdv0vgo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -466,7 +466,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yCxANLRZLmmrRJdWRymfY/lRa+Tng0EyLNmeuy9bNdQ=
+			mWbuTjo6Ee/8uMeKf0Ih4INNgkfR3022HZadCSWR2MI=
 			</data>
 		</dict>
 	</dict>
