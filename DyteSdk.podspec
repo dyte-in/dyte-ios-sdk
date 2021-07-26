@@ -9,7 +9,6 @@ Pod::Spec.new do |s|
     s.author           = { 'dyte' => 'dev@dyte.in' }
 
     s.platforms    = { :ios => "11.0" }
-    # s.source       = { :http => "file:/Users/rohitbhatia/Desktop/dyte-mobile-client/sdk-out/", :type => "zip"}
     # change the source location
     s.source       = { :git => "https://github.com/dyte-in/dyte-ios-sdk.git", :tag => "#{s.version}" }
     # change the source location

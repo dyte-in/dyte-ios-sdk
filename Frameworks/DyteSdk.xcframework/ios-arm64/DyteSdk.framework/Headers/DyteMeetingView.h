@@ -14,19 +14,12 @@
 @optional
 
 - (void)meetingConnected;
-
 - (void)meetingDisconnect;
-
 - (void)meetingJoined;
-
 - (void)meetingEnded;
-
 - (void)activeSpeaker:(NSString*)peerId;
-
-- (void)participantLeave:(NSString*)peerId;
-
+- (void)participantLeave:(DyteParticipant*)participant;
 - (void)participantJoin:(DyteParticipant*)participant;
-
 - (void)participantUpdate:(DyteParticipant*)participant;
 
 @end
