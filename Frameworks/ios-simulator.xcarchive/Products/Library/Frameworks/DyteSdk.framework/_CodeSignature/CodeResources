@@ -45,6 +45,10 @@
 		<data>
 		JXAHgShWglwsnml43OJNMDuOE2Y=
 		</data>
+		<key>Headers/DyteDeviceOrientation.h</key>
+		<data>
+		LbrMCCTWTBMvGC7TuNG73NRQvGY=
+		</data>
 		<key>Headers/DyteMeetingConfig.h</key>
 		<data>
 		lMWEOlqeViRQllCNaTLXleaogVk=
@@ -175,7 +179,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		qpl7/vc54WeMSGhRPmUtc36fbNU=
+		uFkc+V0XbDGjue4hrrUhh7d2qIY=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -243,6 +247,13 @@
 			<key>hash2</key>
 			<data>
 			j8RXtg2hyLqKvxE+yYDHKc2zCMV9k9y2+6L7tmcxsI4=
+			</data>
+		</dict>
+		<key>Headers/DyteDeviceOrientation.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NOwMaY/YwLAt6k1A1thdGSMtGFyycHYvvn6wHz+vJpk=
 			</data>
 		</dict>
 		<key>Headers/DyteMeetingConfig.h</key>
@@ -466,7 +477,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kN015wgpSnXBNanm1prx7dtFjMFV3uV/56nV8GsKORA=
+			2Z2teYlAmVYphMWLCl06WgHKHyEnYTAbcxqn9kVsbOo=
 			</data>
 		</dict>
 	</dict>
