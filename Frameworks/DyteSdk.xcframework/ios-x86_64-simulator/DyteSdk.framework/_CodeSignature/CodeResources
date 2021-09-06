@@ -37,10 +37,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Entypo.ttf</key>
-		<data>
-		R4cKZ91Qhxdl95nKqX2ochnuR8U=
-		</data>
 		<key>Headers/Dyte.h</key>
 		<data>
 		JXAHgShWglwsnml43OJNMDuOE2Y=
@@ -85,14 +81,6 @@
 		<data>
 		f1Gx+FnWRJKiSVSf99OFT9EOBDE=
 		</data>
-		<key>Ionicons.ttf</key>
-		<data>
-		tSgfv6QxKavD5BLdk4z88Ld96Zk=
-		</data>
-		<key>MaterialIcons.ttf</key>
-		<data>
-		GUOAPWUnUMjsYEFfHldAHHDnLSU=
-		</data>
 		<key>Modules/DyteSdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
 		y6mxSYAodfmSgOTuv8M0cw8JecY=
@@ -120,10 +108,6 @@
 		<key>Modules/module.modulemap</key>
 		<data>
 		fuPAILfuPQ8b2yFehhukzz3AvE0=
-		</data>
-		<key>Octicons.ttf</key>
-		<data>
-		KIdYdEE1A7zAgQ6ipE3BuDEsZlo=
 		</data>
 		<key>assets/app.json</key>
 		<data>
@@ -161,25 +145,17 @@
 		<data>
 		grtV7Q9ppdp47V+KjHKdc0xjr14=
 		</data>
-		<key>assets/node_modules/react-native-vector-icons/glyphmaps/Entypo.json</key>
+		<key>assets/node_modules/react-native-vector-icons/glyphmaps/MaterialCommunityIcons.json</key>
 		<data>
-		vP+/QMl+LCeJCh5NxZt7W2fRTkk=
-		</data>
-		<key>assets/node_modules/react-native-vector-icons/glyphmaps/Ionicons.json</key>
-		<data>
-		Q4dkqfy/5CTEjaqDVu+tcyl89pI=
+		6DneEMn761Q7+VswHmzqd+aBxMM=
 		</data>
 		<key>assets/node_modules/react-native-vector-icons/glyphmaps/MaterialIcons.json</key>
 		<data>
 		GxHc1Di9GnpNWGY4KNmxzB1sGII=
 		</data>
-		<key>assets/node_modules/react-native-vector-icons/glyphmaps/Octicons.json</key>
-		<data>
-		HEfQl9CbtMlZqIFlOOz1nf+IM5A=
-		</data>
 		<key>main.jsbundle</key>
 		<data>
-		kLak31cMSjci73+QykK09T4zDBs=
+		CuLv65+NYqY9mpsrsO4865KoWE0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -234,13 +210,6 @@
 			</data>
 			<key>optional</key>
 			<true/>
-		</dict>
-		<key>Entypo.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			3QhJoVkfiNp5N7I/kiQYpc7FTgdeCePMyo/rYgFvqoI=
-			</data>
 		</dict>
 		<key>Headers/Dyte.h</key>
 		<dict>
@@ -312,20 +281,6 @@
 			V7W+xnZuYjFJMwa4mHJjSzwGZU4lsXKAvbtSfDTNArI=
 			</data>
 		</dict>
-		<key>Ionicons.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7rACslkR31LsyqT1swN3jtf0ipsHhSYwVR6fFcxwnzM=
-			</data>
-		</dict>
-		<key>MaterialIcons.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xrFho4+y/siypSIlLQPJBzVc2RvMKOGd/dpfM1q+8Fg=
-			</data>
-		</dict>
 		<key>Modules/DyteSdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
@@ -373,13 +328,6 @@
 			<key>hash2</key>
 			<data>
 			K2ivc7wBwJ1e8W5CTe2BeZronFDeGymjjCpb3RLa30E=
-			</data>
-		</dict>
-		<key>Octicons.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ua3cE7d8ZyDNSM0Y8PSoyuWJsbkQNjDCSd5gq3Lf1r4=
 			</data>
 		</dict>
 		<key>assets/app.json</key>
@@ -445,18 +393,11 @@
 			Pix2EEjpgswkcJR6NLQHBluspyfsacHzJSzXhAA5SGM=
 			</data>
 		</dict>
-		<key>assets/node_modules/react-native-vector-icons/glyphmaps/Entypo.json</key>
+		<key>assets/node_modules/react-native-vector-icons/glyphmaps/MaterialCommunityIcons.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9WMXSgpVzwfQ+b7WCRnX3lyo619xEE06qE3gfFk2v4A=
-			</data>
-		</dict>
-		<key>assets/node_modules/react-native-vector-icons/glyphmaps/Ionicons.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			F5swEFKG+3/SVEAUdmY52DQ8N+0d8PYm1N1B4C75DPM=
+			9jx2bjcrpuWRxJoAjmAJIFOtCFUBs7rOEW7mX5BxWjg=
 			</data>
 		</dict>
 		<key>assets/node_modules/react-native-vector-icons/glyphmaps/MaterialIcons.json</key>
@@ -466,18 +407,11 @@
 			FE57IqkgiYbcwyhtHhchRH5UoqP4meXdTj3VWaWGC/w=
 			</data>
 		</dict>
-		<key>assets/node_modules/react-native-vector-icons/glyphmaps/Octicons.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			k1Tfyb9RtPyq/hM/bijGjh+0yn771WQ6XjQSZEsGMwg=
-			</data>
-		</dict>
 		<key>main.jsbundle</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZbsaNRpZiS+unnslR5RJkCEInAFavdmyuL3saZOA7LE=
+			3F0XMRjsD72IXAlZhMmmBsndG8AIHjk8ahJe24NeXPc=
 			</data>
 		</dict>
 	</dict>
