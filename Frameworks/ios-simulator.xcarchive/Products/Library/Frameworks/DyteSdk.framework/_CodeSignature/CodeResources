@@ -6,11 +6,11 @@
 	<dict>
 		<key>AccessibilityResources.bundle/Info.plist</key>
 		<data>
-		OdUZqemOyV6mnPsoTgbLclEE8xU=
+		+rjgaJPD/gArzVgt+S4CSjO4nzk=
 		</data>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		57pIbwAef8LQuhTkY6CiUJBS7sI=
+		lX1mRhPs1H3+K1/oEzHOYXTb4zA=
 		</data>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		Xv6cewrImX/5E4EL46ApH5SJuJs=
+		6QEFwlUWBU5foFD8UkdPkdyDNpI=
 		</data>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		RMh4lkG5vRpiauJ2diBFyeeUV/0=
+		ZA2OUR/SauLMDkFtLt2Qi2C9wB4=
 		</data>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
@@ -32,7 +32,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			X9E0vQNrSNVBkgqtimYht4o7EEg=
+			ha91OZw4TOgWUxuUT5BbsiwqaW0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -143,7 +143,7 @@
 		</data>
 		<key>Modules/DyteSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		N24QOuoMyW027WDF1gI547Q14mk=
+		ljy9v3OJLA0cRVoRWHue5VXMgZI=
 		</data>
 		<key>Modules/DyteSdk.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -155,7 +155,7 @@
 		</data>
 		<key>Modules/DyteSdk.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		N24QOuoMyW027WDF1gI547Q14mk=
+		ljy9v3OJLA0cRVoRWHue5VXMgZI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -172,14 +172,6 @@
 		<key>Zocial.ttf</key>
 		<data>
 		C9pZx7zT05J94EfgkYdaRCi/0as=
-		</data>
-		<key>assets/app.json</key>
-		<data>
-		zgMSN0r2xBwtqbQVFQEt9ItISXc=
-		</data>
-		<key>assets/node_modules/css-color-keywords/colors.json</key>
-		<data>
-		1t474kL2KyUhIoTe7n+xjfrb+jQ=
 		</data>
 		<key>assets/node_modules/react-native-check-box/img/ic_check_box.png</key>
 		<data>
@@ -209,17 +201,9 @@
 		<data>
 		grtV7Q9ppdp47V+KjHKdc0xjr14=
 		</data>
-		<key>assets/node_modules/react-native-vector-icons/glyphmaps/MaterialCommunityIcons.json</key>
-		<data>
-		6DneEMn761Q7+VswHmzqd+aBxMM=
-		</data>
-		<key>assets/node_modules/react-native-vector-icons/glyphmaps/MaterialIcons.json</key>
-		<data>
-		GxHc1Di9GnpNWGY4KNmxzB1sGII=
-		</data>
 		<key>main.jsbundle</key>
 		<data>
-		zMl2hg5mXGfh/d+JWaccfeQ1qKc=
+		pZQyUBkkNGFOKM5DkZMvoN9J7yA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -228,14 +212,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			86q0kv03lTuR9X1Vw53bzly3fzrmv7QObbrZ5lelwJw=
+			mI8IcaU7+MZLRT6oqcGsn2VyG+YUT3OdxaQ9kD7n/7A=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			atd0V69BIZgyWpSnyIJ1gAJd8KHTmrJb4rzlgSZfk3Y=
+			rvlOclpUOOow3t5QxRzWCagPeNc7z78VIbqZzUuoflU=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeRequirements</key>
@@ -249,14 +233,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PwLuclfcQd+F9GkVvUnJn7CHHvgGm2Qz/OGY4ykMdkA=
+			TnGVq0CLlp25dCzVxgVMHx7fzwU9NQjYPV2plXw2qAw=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			P78dgVuYBN6LjxMpLPm3PU7TVW+nH5E8LhE3e7gyZR4=
+			SMLsTIrqiAkRdNeDGWaFt/v3IpWWZDWIJNd4y4nKPQI=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeSignature</key>
@@ -270,7 +254,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w1hfj69Kbb8WcP7mQdPFb//Z6XisMBZJwk6rwYndD5Y=
+			rM6zbBjCwQ4kWKt7KvhUq272nxb33Bj0GDkxdLuGekE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -454,7 +438,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RvGwmo8XqS/GEIiYUY+D4vBnXPpoWAlUMVocoBSimL4=
+			UFDWByc6b0vz5WdoJTvX6lD9yWUVuFO7wJUCEcl26oI=
 			</data>
 		</dict>
 		<key>Modules/DyteSdk.swiftmodule/x86_64.swiftdoc</key>
@@ -475,7 +459,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RvGwmo8XqS/GEIiYUY+D4vBnXPpoWAlUMVocoBSimL4=
+			UFDWByc6b0vz5WdoJTvX6lD9yWUVuFO7wJUCEcl26oI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -504,20 +488,6 @@
 			<key>hash2</key>
 			<data>
 			17EKHr4YMOWi8I9JA7moDiwZEsDdL3O5P88r+DIhZgI=
-			</data>
-		</dict>
-		<key>assets/app.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			9Ekm07uCiLYY/yKFCqjEG779E/RKM3sTpHR/Nixrwo4=
-			</data>
-		</dict>
-		<key>assets/node_modules/css-color-keywords/colors.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NU8YFuguOqQH1Uk6Wf919tBz0Y4520jnkrO96VFBn/U=
 			</data>
 		</dict>
 		<key>assets/node_modules/react-native-check-box/img/ic_check_box.png</key>
@@ -569,25 +539,11 @@
 			Pix2EEjpgswkcJR6NLQHBluspyfsacHzJSzXhAA5SGM=
 			</data>
 		</dict>
-		<key>assets/node_modules/react-native-vector-icons/glyphmaps/MaterialCommunityIcons.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			9jx2bjcrpuWRxJoAjmAJIFOtCFUBs7rOEW7mX5BxWjg=
-			</data>
-		</dict>
-		<key>assets/node_modules/react-native-vector-icons/glyphmaps/MaterialIcons.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			FE57IqkgiYbcwyhtHhchRH5UoqP4meXdTj3VWaWGC/w=
-			</data>
-		</dict>
 		<key>main.jsbundle</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0o53XEcZHcmDoT5QJDHKlhzrf6IIrw2i/BZnC0dhBKw=
+			XV/jcJb5bCOJ+Zb4jLTq0Lw864yZ55SjaVXIzZyjujU=
 			</data>
 		</dict>
 	</dict>
