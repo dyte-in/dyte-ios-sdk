@@ -14,6 +14,8 @@ NS_ASSUME_NONNULL_BEGIN
 @property(nonatomic, assign, readonly) BOOL meetingJoined;
 @property(nonatomic, assign, readonly) BOOL meetingConnected;
 @property(nonatomic, assign, readonly) BOOL activeSpeaker;
+@property(nonatomic, assign, readonly) NSString *roomMessage;
+@property(nonatomic, assign, readonly) NSString *message;
 #pragma mark - This class is a singleton
 + (instancetype _Nonnull)sharedInstance;
 -(void)setAllValueNil;
