@@ -30,7 +30,7 @@
 
 @property (nonatomic, nullable, weak) id<DyteMeetingViewDelegate> delegate;
 - (void)join:(DyteMeetingConfig*)config;
-- (void)updateUiConfig;
+- (void)updateUiConfig:(NSDictionary*)config;
 @end
 
 
