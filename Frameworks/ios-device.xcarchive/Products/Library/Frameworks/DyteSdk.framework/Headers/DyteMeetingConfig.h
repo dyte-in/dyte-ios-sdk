@@ -14,6 +14,4 @@
 @property(nonatomic, readwrite) NSString *apiBase;
 @property(nonatomic, readwrite) NSString *orgId;
 @property(nonatomic, assign, readwrite) BOOL showSetupScreen;
-@property (nonatomic, readwrite) double width;
-@property (nonatomic, readwrite) double height;
 @end
