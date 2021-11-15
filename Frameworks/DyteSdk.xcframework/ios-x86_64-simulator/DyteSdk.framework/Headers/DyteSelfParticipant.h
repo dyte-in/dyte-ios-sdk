@@ -25,6 +25,7 @@
 - (void)selfPin;
 - (void)selfUnpin;
 - (void)selfScreenSharing;
+- (void)leaveRoom;
 -(void)setAllValueNil;
 
 @end
