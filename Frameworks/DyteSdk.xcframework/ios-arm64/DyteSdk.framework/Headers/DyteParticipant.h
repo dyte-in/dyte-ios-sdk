@@ -14,6 +14,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property(nonatomic) NSString *name;
 @property(nonatomic) NSString *id;
 @property(nonatomic) NSString *picture;
+@property(nonatomic) NSString *clientSpecificId;
 @property(nonatomic, assign) BOOL isScreensharing;
 @property(nonatomic, assign) BOOL isPinned;
 @property(nonatomic, assign) BOOL videoEnabled;

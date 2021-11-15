@@ -6,11 +6,11 @@
 	<dict>
 		<key>AccessibilityResources.bundle/Info.plist</key>
 		<data>
-		+rjgaJPD/gArzVgt+S4CSjO4nzk=
+		cmpTVmnR7DntucYso0ujniPdyZc=
 		</data>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		lX1mRhPs1H3+K1/oEzHOYXTb4zA=
+		0rXtNFu+FYlCAzX8zy6zHTfBwUE=
 		</data>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		6QEFwlUWBU5foFD8UkdPkdyDNpI=
+		/Po9O6IsEZ4mTmbGmrSrKeAJxew=
 		</data>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -81,29 +81,25 @@
 		<data>
 		JXAHgShWglwsnml43OJNMDuOE2Y=
 		</data>
-		<key>Headers/DyteDeviceOrientation.h</key>
-		<data>
-		LbrMCCTWTBMvGC7TuNG73NRQvGY=
-		</data>
 		<key>Headers/DyteMeetingConfig.h</key>
 		<data>
 		lMWEOlqeViRQllCNaTLXleaogVk=
 		</data>
 		<key>Headers/DyteMeetingInfo.h</key>
 		<data>
-		GAHQVmXAe1oTARPoFo1mrZtVyd4=
+		1rOuWd538HDGOu2LtSJecbnGiPg=
 		</data>
 		<key>Headers/DyteMeetingView.h</key>
 		<data>
-		jJ2QZSbTHJLPhBkwkADsV8IJfTo=
+		rs0iWQXitbA5A46VIfxyBl/WjgY=
 		</data>
 		<key>Headers/DyteParticipant.h</key>
 		<data>
-		3z1lgLD7Sq1dJEDvhnYNM6NBbKY=
+		cjSNWuRJ9HsVSGjdRy4N4qpjHYU=
 		</data>
 		<key>Headers/DyteParticipants.h</key>
 		<data>
-		G8LyGK3Ai2p4VBdmDpUwKw+iQcU=
+		ZvFdPPfF2ve44IUAbB5KM1nCfjU=
 		</data>
 		<key>Headers/DyteSdk-Swift.h</key>
 		<data>
@@ -115,7 +111,7 @@
 		</data>
 		<key>Headers/DyteSelfParticipant.h</key>
 		<data>
-		J9MAbX6c5Hhpdc/MzqJ1rITPkGI=
+		wHCdOOVNzlN9pSUBNikzhJ90Kpg=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -143,7 +139,7 @@
 		</data>
 		<key>Modules/DyteSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ljy9v3OJLA0cRVoRWHue5VXMgZI=
+		bniV2v8L1HJ9Jv9L6BpnQLd3sPY=
 		</data>
 		<key>Modules/DyteSdk.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -155,7 +151,7 @@
 		</data>
 		<key>Modules/DyteSdk.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		ljy9v3OJLA0cRVoRWHue5VXMgZI=
+		bniV2v8L1HJ9Jv9L6BpnQLd3sPY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -203,7 +199,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		CWlj0bPpjPo0HPqEjaheLpX9OOA=
+		PWBiboA++78YGvg2uGe5XWmhZ5M=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -212,14 +208,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mI8IcaU7+MZLRT6oqcGsn2VyG+YUT3OdxaQ9kD7n/7A=
+			yapcCHokWCj6rzHmjKeQWdLEeXpwIciaCm9jEZcclmc=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rvlOclpUOOow3t5QxRzWCagPeNc7z78VIbqZzUuoflU=
+			2Kb6eTEvoWpR1TB57l1BGDaV5Cqewf19deCc9ekbttY=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeRequirements</key>
@@ -233,7 +229,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TnGVq0CLlp25dCzVxgVMHx7fzwU9NQjYPV2plXw2qAw=
+			kVjsZTSy+9CINTwoBPxAJ82S5hKU9ZOjD8zoMiemG4c=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeResources</key>
@@ -336,13 +332,6 @@
 			j8RXtg2hyLqKvxE+yYDHKc2zCMV9k9y2+6L7tmcxsI4=
 			</data>
 		</dict>
-		<key>Headers/DyteDeviceOrientation.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NOwMaY/YwLAt6k1A1thdGSMtGFyycHYvvn6wHz+vJpk=
-			</data>
-		</dict>
 		<key>Headers/DyteMeetingConfig.h</key>
 		<dict>
 			<key>hash2</key>
@@ -354,28 +343,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			px+AkXFbvAibaWimXJFwvVdt+sOBW9uBqdR2HyqOL30=
+			FasQgWppyIyCPJRSGerIOvVHf/sVcoBTPBX1HfiYsSQ=
 			</data>
 		</dict>
 		<key>Headers/DyteMeetingView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tTUi0OR1wvyeKug0CAU6WrekeGGL9m6RZbfHW1q/fjk=
+			nPBfjxMgK4aCpzFsoUnqMMHnwqobyS5jh5uECGOW0Ys=
 			</data>
 		</dict>
 		<key>Headers/DyteParticipant.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WcY0A4zA8W7AJci+A+RcNYjJzJM8xhEdLV0yZJp37JM=
+			vXYbMYyaTFo7ebdUo5I9fx4ulilJG/0fOZ8rSKCjhm0=
 			</data>
 		</dict>
 		<key>Headers/DyteParticipants.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wtNjQEp1haG4qJkJOm3teAahhRLZxOMVFTXx2GwARpY=
+			HUxi3j4J8duXkJqheXwy/NriBiT+VxYDv3vDL5C4Xpo=
 			</data>
 		</dict>
 		<key>Headers/DyteSdk-Swift.h</key>
@@ -396,7 +385,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			V7W+xnZuYjFJMwa4mHJjSzwGZU4lsXKAvbtSfDTNArI=
+			JxLuIdcrIFYXwDqN0oYG57FGYNi7vQsxWhYEOM+1AjU=
 			</data>
 		</dict>
 		<key>Ionicons.ttf</key>
@@ -438,7 +427,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UFDWByc6b0vz5WdoJTvX6lD9yWUVuFO7wJUCEcl26oI=
+			Vm2CZbeRmpbdosjP0/DNyFAdT0GHIX+8MuZB50laBvw=
 			</data>
 		</dict>
 		<key>Modules/DyteSdk.swiftmodule/x86_64.swiftdoc</key>
@@ -459,7 +448,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UFDWByc6b0vz5WdoJTvX6lD9yWUVuFO7wJUCEcl26oI=
+			Vm2CZbeRmpbdosjP0/DNyFAdT0GHIX+8MuZB50laBvw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -543,7 +532,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1tGCsTwoEA0USj9UyniDFFocc6xN0V7iAul9PNxEmLM=
+			sAW+WLlZO+FPGqQT3kNJ9JO3J55qAWTGmLSh3IwEZCA=
 			</data>
 		</dict>
 	</dict>

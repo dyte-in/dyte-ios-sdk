@@ -18,9 +18,10 @@
     @property(nonatomic, assign, readonly) BOOL audioEnabled;
 
 + (instancetype _Nonnull)sharedInstance;
-
-- (void)toggleAudio;
-- (void)toggleVideo;
+- (void)enableAudio;
+- (void)enableVideo;
+- (void)disableAudio;
+- (void)disableVideo;
 - (void)selfPin;
 - (void)selfUnpin;
 - (void)selfScreenSharing;

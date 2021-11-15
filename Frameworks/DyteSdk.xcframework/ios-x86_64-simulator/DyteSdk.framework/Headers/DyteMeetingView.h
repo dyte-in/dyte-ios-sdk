@@ -30,12 +30,7 @@
 
 @property (nonatomic, nullable, weak) id<DyteMeetingViewDelegate> delegate;
 - (void)join:(DyteMeetingConfig*)config;
-- (void)toggleAudio;
-- (void)toggleVideo;
-- (void)selfPin;
-- (void)selfUnpin;
 - (void)updateUiConfig;
-- (void)selfToggleScreenShare;
 @end
 
 
