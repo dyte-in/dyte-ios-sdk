@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
     s.summary           = 'Beta release of dyte sdk'
     s.homepage          = 'https://dyte.in'
     s.license          = 'Apache 2'
-
+    s.documentation_url = 'https://docs.dyte.io/ios/quickstart'
     s.author           = { 'dyte' => 'dev@dyte.in' }
 
     s.platforms    = { :ios => "11.0" }
