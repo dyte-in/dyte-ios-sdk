@@ -14,4 +14,5 @@
 @property(nonatomic, readwrite) NSString *apiBase;
 @property(nonatomic, readwrite) NSString *orgId;
 @property(nonatomic, assign, readwrite) BOOL showSetupScreen;
+@property(nonatomic, assign, readwrite) NSDictionary* uiConfig;
 @end
