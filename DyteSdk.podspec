@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
     s.documentation_url = 'https://docs.dyte.io/ios/quickstart'
     s.author           = { 'dyte' => 'dev@dyte.in' }
 
-    s.platforms    = { :ios => "11.0" }
+    s.platforms    = { :ios => "12.0" }
     # change the source location
     s.source       = { :git => "https://github.com/dyte-in/dyte-ios-sdk.git", :tag => "#{s.version}" }
     # change the source location
