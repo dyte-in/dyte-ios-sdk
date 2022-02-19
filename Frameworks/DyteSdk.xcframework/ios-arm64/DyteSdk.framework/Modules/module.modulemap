@@ -1,0 +1,11 @@
+framework module DyteSdk {
+  umbrella header "DyteSdk.h"
+
+  export *
+  module * { export * }
+}
+
+module DyteSdk.Swift {
+    header "DyteSdk-Swift.h"
+    requires objc
+}
