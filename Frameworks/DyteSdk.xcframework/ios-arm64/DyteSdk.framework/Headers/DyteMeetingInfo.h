@@ -16,6 +16,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property(nonatomic, assign, readonly) BOOL activeSpeaker;
 @property(nonatomic, assign, readonly) NSString *roomMessage;
 @property(nonatomic, assign, readonly) NSString *message;
+@property(nonatomic, assign, readonly) BOOL localMediaConnected;
 #pragma mark - This class is a singleton
 + (instancetype _Nonnull)sharedInstance;
 -(void)setAllValueNil;
