@@ -6,11 +6,11 @@
 	<dict>
 		<key>AccessibilityResources.bundle/Info.plist</key>
 		<data>
-		LhiGqiBfhEjcJJWbzQ4wXRpZmWE=
+		2dwQUdl8Xac9IUteNFqAIvGz7Ic=
 		</data>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		DawLPV03w/cbjNtj4WGwrTFw6FQ=
+		s6SmUZziXbSEH+onPwrQivaw3hw=
 		</data>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		ASHx+Vp84/mACJ3rRVAkH+YuHfY=
+		iD15qil7BXfR+K+43nJAUySAbJA=
 		</data>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -103,7 +103,7 @@
 		</data>
 		<key>Headers/DyteSdk-Swift.h</key>
 		<data>
-		fGT9C/uy/VXmChlbepuN2RKZbMc=
+		LHXiXCV1KnAWDAjTXBbLe6XwnGM=
 		</data>
 		<key>Headers/DyteSdk.h</key>
 		<data>
@@ -115,7 +115,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		25wFZJk8liQ+0H+SsMXfSQ/E8nc=
+		ei8498czbzFVCuJgesnRYmXzgfI=
 		</data>
 		<key>Ionicons.ttf</key>
 		<data>
@@ -131,15 +131,15 @@
 		</data>
 		<key>Modules/DyteSdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		OV23BYxdtvPAN1TRjS1Y0+B7o0w=
+		r/Dn9d+ZlagY3kSAbeTffLqZduU=
 		</data>
 		<key>Modules/DyteSdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		mLpBdEvOoX4/3Vf8HCzgI1qHQ6Q=
+		Th2+0hhdvO7Z28b19QpTrU8NfOI=
 		</data>
 		<key>Modules/DyteSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		NH4bgipcts+7BBLUry88itViS5g=
+		WpSbP81lHS7uzRxtvu1w/etHqew=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -187,7 +187,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		7iaSjnsl+2nK0iRkl8Ujyp4xCNM=
+		KUUDReHjk2rG2l+ItGO2FYYUWZs=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -196,14 +196,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rWDqrR2CrxRd5XdlkfHJCVdS2ymP67EkkLhw1pfvwNg=
+			CQN2FxKsDB51SnPSn3k9VUKobKrtLsGSIG7UEVegbkE=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0Yg4yUi5TCbVvzf4vB2k55KNk71FXd3NSO+mLoc089k=
+			j260aCJR/9uTtNZ3hcT/BhRL1+KzpEP7B+KZQPjkNBY=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeRequirements</key>
@@ -217,7 +217,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aJWljfjheEk9MxdYvHs9DK3HvmF5YxcnNLyzslsoP4E=
+			1M6qo0c5FYnhOR2ISx6Z09xertSjPDCq9ilmsxlWvP0=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeResources</key>
@@ -359,7 +359,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VckacHrQ0nFSgqoVr0bJXz9PjDkG6gl32lLevoB2w+g=
+			dFXXuMreTJ1Dh6jNYkOstpW2jcGASKuqa5GdaPjV490=
 			</data>
 		</dict>
 		<key>Headers/DyteSdk.h</key>
@@ -401,21 +401,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Jl7oBkLCC7ZDG37Fw0bbUln7z1xM2GYBx+PTt9pb3qY=
+			PSjJjX/bMH0ppaZ2hxen2YlieanJ+3h+EEDEQdb9Lpg=
 			</data>
 		</dict>
 		<key>Modules/DyteSdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ihjn8qqnc50aEK/Z5mmQg+FbUFWOVo7t/fePebpV6aw=
+			1qqIPlxUUsACMNcDrkVVzf2g0neE45Mx1OT7NG9YL6Y=
 			</data>
 		</dict>
 		<key>Modules/DyteSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kkSeuZI/cj72OXiQVVnUmQzWNo12f3vI5PKknnIPsjg=
+			aw9dUoWd/1rSU3cs1fd1OUytHsm9fM5iPwvhEiR1b/o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -499,7 +499,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WELibzhujqqT91zlf/Jzlel4zk1TqPuren1UDYjI1XI=
+			//w6RTNWeqF/r1kW8VBnwoLracSe+EjNwTwGaQYcyN4=
 			</data>
 		</dict>
 	</dict>
