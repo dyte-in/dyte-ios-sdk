@@ -6,6 +6,6 @@ framework module DyteSdk {
 }
 
 module DyteSdk.Swift {
-    header "DyteSdk-Swift.h"
-    requires objc
+  header "DyteSdk-Swift.h"
+  requires objc
 }
