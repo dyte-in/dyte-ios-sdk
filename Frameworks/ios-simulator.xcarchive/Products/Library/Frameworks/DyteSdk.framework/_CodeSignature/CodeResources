@@ -103,7 +103,7 @@
 		</data>
 		<key>Headers/DyteSdk-Swift.h</key>
 		<data>
-		wkxZrBXeWFN4BQXGS8OXepIEiF8=
+		sFACCCjVzwnKwt0omo4et6Ru74o=
 		</data>
 		<key>Headers/DyteSdk.h</key>
 		<data>
@@ -128,6 +128,26 @@
 		<key>MaterialIcons.ttf</key>
 		<data>
 		GUOAPWUnUMjsYEFfHldAHHDnLSU=
+		</data>
+		<key>Modules/DyteSdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		FgAA3xATwnOBPa8rLz73dQd7Jgc=
+		</data>
+		<key>Modules/DyteSdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		YUWA013aE2mItOsScMwShFhnVaM=
+		</data>
+		<key>Modules/DyteSdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		3ZUkQjR3mTtIEkapGOb25pAxvoM=
+		</data>
+		<key>Modules/DyteSdk.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		YUWA013aE2mItOsScMwShFhnVaM=
+		</data>
+		<key>Modules/DyteSdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		MJVFnOtHlriSZP0aRWpHfo+g11o=
 		</data>
 		<key>Modules/DyteSdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -367,7 +387,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ElmwRNyHq8vQjFjUMvVQ0wYw48w4BKWHVeSAZ7NN8gU=
+			+Vhc8+yYMP7sHRvD1msK+jil/pufXUR1z8f5HzQSDwY=
 			</data>
 		</dict>
 		<key>Headers/DyteSdk.h</key>
@@ -403,6 +423,41 @@
 			<key>hash2</key>
 			<data>
 			xrFho4+y/siypSIlLQPJBzVc2RvMKOGd/dpfM1q+8Fg=
+			</data>
+		</dict>
+		<key>Modules/DyteSdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0AwLAXWn1zgIToqV5Qw4baf7CzS432XJj5hD5L66V4I=
+			</data>
+		</dict>
+		<key>Modules/DyteSdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RRamncBSbdBLqHJ7hbTn59WAyNUsVdyI8WViJnkfuyE=
+			</data>
+		</dict>
+		<key>Modules/DyteSdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cvE/LQvRDj+m6yVsGIJu9+IV+ZDCCBNXEQ07xkoQHGo=
+			</data>
+		</dict>
+		<key>Modules/DyteSdk.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RRamncBSbdBLqHJ7hbTn59WAyNUsVdyI8WViJnkfuyE=
+			</data>
+		</dict>
+		<key>Modules/DyteSdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			y+gDto5I4yc98wuE6WDmhW2PVlF2OikJCrtGC+nULsE=
 			</data>
 		</dict>
 		<key>Modules/DyteSdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
